@@ -22,7 +22,7 @@ Ele conta com:
 ## 🎬 Demonstração
 
 👉 Acesse aqui:
-(cole aqui o link do seu site do GitHub Pages ou Netlify)
+https://leonardo-davi-2005.github.io/dia_das_maes/
 
 ## 📁 Estrutura do projeto
 
